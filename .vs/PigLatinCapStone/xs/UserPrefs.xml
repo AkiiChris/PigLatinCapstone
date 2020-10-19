@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{1FA837B6-503C-4EB6-9254-3BC557F6FB4D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PigLatinCapStone/Program.cs">
+    <Files>
+      <File FileName="PigLatinCapStone/Program.cs" Line="76" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PigLatinCapStone FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
